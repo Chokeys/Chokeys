@@ -5,8 +5,11 @@
 
 <br />
 
- 백엔드 개발자로 성장중인 신입 개발자 입니다. <br /><br />
- 향후 백엔드, 프론트엔드 두 분야 모두 다룰 수 있는 풀스텍 개발자가 되는것이 목표입니다
+### 안녕하세요 반갑습니다!! 저를 소개해드릴게요 👋 
+<br/>
+
+ 현재는 백엔드 개발자로 성장중인 신입 개발자 입니다. <br /><br />
+ 향후 백엔드, 프론트엔드 두 분야 모두 다룰 수 있는 풀스텍 개발자가 되는것이 목표입니다.
 
 <br/>
 
@@ -22,19 +25,19 @@
 
 <br/><br/>
 
-<div align="center">
+<div align="left">
  <h3>🔧language</h3>
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
-<div align="center">
+<div align="left">
  <h3>💾Data base</h3>
     <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
     <img src="https://img.shields.io/badge/H2-232F3E?style=for-the-badge&logo=h2&logoColor=white" />
 </div>
 
-<div align="center">
+<div align="left">
  <h3>💻Back-end</h3>
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
     <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
@@ -42,7 +45,7 @@
     <img src="https://img.shields.io/badge/MyBatis-232F3E?style=for-the-badge&logo=mybatis&logoColor=white" />
 </div>
 
-<div align="center">
+<div align="left">
  <h3>📱Front-end</h3>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
@@ -51,19 +54,19 @@
     <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
 </div>
 
-<div align="center">
+<div align="left">
  <h3>👭 Cooperative tool</h3>
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
 </div>
 
-<div align="center">
+<div align="left">
  <h3>:shipit: IDE</h3>
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
 	   <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </div>
 
-<div align="center">
+<div align="left">
  <h3>🐳 Cloude</h3>
  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </div>
