@@ -14,8 +14,5 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Chokey%20github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=60&descAlign=62)
-
-
- 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=The%20Chokey&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Keep%20that%20in%20mind,%20sage%20is%20the%20strictest%20to%20himself%20&descAlignY=60&descAlign=62)
 
