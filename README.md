@@ -16,7 +16,7 @@
 
 - 🏠 꾸준히 쓰고 있는 개발 블로그 [Chokeys](https://gnngtkwk.tistory.com/)
 
-- ❤️ 기본이 탄탄한, &nbsp; 배움을 즐기는 개발자
+- ❤️ 기본이 탄탄한, &nbsp; 배움을 즐기는 개발자!
 
 <br/><br/>
 
