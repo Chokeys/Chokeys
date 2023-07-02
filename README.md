@@ -5,23 +5,24 @@
 
 <br />
 
- #### 백엔드 개발자로 성장중인 신입 개발자 입니다. <br /><br />
- #### 향후 백엔드, 프론트엔드 두 분야 모두 다룰 수 있는 풀스텍 개발자가 되는것이 목표입니다
+ 백엔드 개발자로 성장중인 신입 개발자 입니다. <br /><br />
+ 향후 백엔드, 프론트엔드 두 분야 모두 다룰 수 있는 풀스텍 개발자가 되는것이 목표입니다
 
 <br/>
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- 🎯 자바 back-end 개발자 국비지원 과정 수료
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+- 🏠 꾸준히 쓰고 있는 개발 블로그 [Chokeys](https://gnngtkwk.tistory.com/)
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ 기본이 탄탄한, &nbsp; 배움을 즐기는 개발자
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
 <br/>
+
 <div align="center">
+ <h5>🔧개발언어</h5>
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
