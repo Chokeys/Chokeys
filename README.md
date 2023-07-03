@@ -75,7 +75,7 @@
 
 <br/>
 
-## Portfolio
+## Project
  <a href="http://43.202.51.94:8080/specialday/home.do" target="_blank">
  <img src="https://raw.githubusercontent.com/Chokeys/Chokeys/main/스페셜데이 설명서.png"></a>
 
