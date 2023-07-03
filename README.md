@@ -79,7 +79,7 @@
 
 <div align="left">
  <a href="http://13.125.113.26:8080/specialday/home.do" target="_blank"><img src="https://github.com/pknu05/Final-Project/assets/44632544/3af41267-72d3-48ff-8dfd-aac0d62ae130"></a>
- <img src="https://github.com/Chokeys/Chokeys/assets/123917210/bc0ffa6f-7690-4fb3-8702-70b5f1667b1e">
+ <img src="https://github.com/Chokeys/Chokeys/assets/123917210/7195f2bd-8448-4711-8bef-d0931b7dfb6c">
 </div>
 
 
