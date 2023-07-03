@@ -17,7 +17,7 @@
 
 - ⛺ 자바 back-end 개발자 국비지원 과정 수료
   
-- 🏠 꾸준히 쓰고 있는 개발 블로그 <a href="https://gnngtkwk.tistory.com/" target="_blank">Chokeys</a>
+- 🏠 꾸준히 쓰고 있는 개발 블로그 <a href="https://gnngtkwk.tistory.com/" target="_blank">Chokeys</a> 
   
 - 📫 저에게 연락 주시려면 gngnapwln@gmail.com
 
