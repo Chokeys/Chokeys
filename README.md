@@ -79,17 +79,9 @@
  <a href="http://43.202.51.94:8080/specialday/home.do" target="_blank">
  <img src="https://raw.githubusercontent.com/Chokeys/Chokeys/main/스페셜데이 설명서.png"></a>
 
+<br/><br/><br/><br/> 
 
-
-
-<br/>
-<br/> 
-
-<br/>
-
-<br/>
-
-| <a href="https://github.com/Chokeys/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Chokeys&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Chokeys/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chokeys&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Chokeys&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chokeys&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br />
