@@ -77,7 +77,7 @@
 
 ## Portfolio
 
-<a href="http://13.125.113.26:8080/specialday/home.do" target="_blank"> <img src="https://github.com/pknu05/Final-Project/assets/44632544/3af41267-72d3-48ff-8dfd-aac0d62ae130"></a>
+<a href="http://13.125.113.26:8080/specialday/home.do" target="_blank"><img src="https://raw.githubusercontent.com/Chokeys/Chokeys/main/스페셜데이.png"></a>
 <br/>
 &nbsp;&nbsp; **[원데이 클래스 매칭 플랫폼]**
 <br/>
