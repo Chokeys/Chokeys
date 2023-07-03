@@ -76,8 +76,8 @@
 <br/>
 
 ## Portfolio
-
- <img src="https://github.com/Chokeys/Chokeys/assets/123917210/4fd3acf7-7444-40aa-8545-12d85d95f7bc">
+ <a href="http://13.125.113.26:8080/specialday/home.do" target="_blank">
+ <img src="https://github.com/Chokeys/Chokeys/assets/123917210/4fd3acf7-7444-40aa-8545-12d85d95f7bc"></a>
 
 
 
@@ -118,7 +118,7 @@
     </p>
 
     <div align="left">
- <a href="http://13.125.113.26:8080/specialday/home.do" target="_blank"><img src="https://github.com/pknu05/Final-Project/assets/44632544/3af41267-72d3-48ff-8dfd-aac0d62ae130"></a>
+<img src="https://github.com/pknu05/Final-Project/assets/44632544/3af41267-72d3-48ff-8dfd-aac0d62ae130">
  <img src="https://github.com/Chokeys/Chokeys/assets/123917210/0761a38a-d65b-4454-9db2-beab07c0964c">
 </div>
 -->
